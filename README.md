@@ -132,5 +132,4 @@ Builds a strong purchase history
 Shows consistent engagement over time
 
 
-**This customer treats the platform as a regular destination. Frequent visits, deeper exploration, and repeated purchases indicate strong engagement and long-term loyalty.
-**
+**This customer treats the platform as a regular destination. Frequent visits, deeper exploration, and repeated purchases indicate strong engagement and long-term loyalty.**
