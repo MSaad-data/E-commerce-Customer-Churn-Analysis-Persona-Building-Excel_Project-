@@ -182,7 +182,38 @@ The company should design retention strategies targeting those just below the lo
 Churned users often make higher-value orders but purchase less frequently, putting them at risk despite contributing decent revenue. Loyal users may spend less per order but buy consistently, generating steady lifetime value. Focusing retention strategies on users near the churn thresholds can help convert at-risk customers into long-term loyal ones.
 
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e81abeb8-741e-4d1a-b4b1-ffa54287a0e5" />
 
+
+## Engagement Persona 
+
+The Engagement Persona highlights how actively customers interact with the platform through emails, customer support, social media, and mobile app usage. It helps understand which users are more connected and involved with the brand.
+
+Engagement metrics complement the overall buyer persona by showing how users interact and stay connected with the platform. Combining this with behavior and value personas helps identify which customers are likely to churn and which are loyal.
+
+### Churned Customers:
+
+Average Email Open Rate: 15.89% — Low engagement with marketing emails signals a higher chance of churn. The company should improve email content and personalization to increase opens.
+
+Average Customer Service Calls: 6.90 — Slightly higher than loyal users, showing potential confusion or issues; proactive support and guidance may help reduce churn.
+
+Average Social Media Engagement Score: 23.16 — Low engagement indicates weaker connection with the brand; strategies like targeted campaigns or community building can help.
+
+Average Mobile App Usage: 16.08% — Less frequent app activity suggests risk of churn; encouraging app usage via notifications, incentives, or app-exclusive offers could retain users.
+
+### Loyal Customers:
+
+Average Email Open Rate: 22.93% — Higher engagement with emails shows interest in platform updates and promotions.
+
+Average Customer Service Calls: 5.19 — Lower support requests indicate smoother experience and satisfaction.
+
+Average Social Media Engagement Score: 31.87 — Stronger brand interaction correlates with loyalty.
+
+Average Mobile App Usage: 20.71% — Frequent app activity reflects higher involvement and stickiness.
+
+## Actionable Insight:
+
+Churned users engage less with emails, social media, and the mobile app, and contact support more often, indicating weaker connection with the platform. Loyal users interact consistently across all channels, showing higher involvement. Boosting engagement for at-risk users through personalized communication and app incentives can help reduce churn.
 
 
 
