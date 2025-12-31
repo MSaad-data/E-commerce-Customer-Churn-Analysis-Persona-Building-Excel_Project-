@@ -45,12 +45,13 @@ Together, they create a complete picture of customer engagement.
 Pivot-Based Interpretation 
 ### 1️. How does login frequency differ between churned and loyal users?
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/03e45f7a-2f73-4a54-9246-55c7f54997ce" />
+
 On this platform:
 
 Churned users log in around 9.12 times
 Loyal users log in around 12.64 times
 
-Interpretation:
 Churned customers interact with the platform less frequently. This suggests weaker habit formation. Customers who log in more often are more likely to stay engaged and remain loyal.
 
 Business insight:
@@ -58,12 +59,11 @@ Increasing login frequency through reminders, personalized notifications, or **c
 
 ### 2️. Do churned users spend less time per session?
 
-The data shows:
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/0066428b-a55d-4d90-a95c-09664fb2822d" />
 
 Churned users have an average session duration of around 23.69 minutes
 Loyal users spend noticeably longer per session
 
-Interpretation:
 Churned users tend to leave sooner, which may indicate lower interest, poor content relevance, or friction in the user experience.
 
 Business insight:
@@ -71,7 +71,8 @@ Improving onboarding, **content quality**, or in-session engagement could encour
 
 ### 3️. Do churned users explore fewer pages?
 
-Interpretation:
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/df65dbcc-b835-4251-9eb6-30bda13838f8" />
+
 Churned users view fewer pages per session compared to loyal users. This shallow browsing behavior suggests they are not fully exploring the platform or finding enough value.
 
 Business insight:
@@ -79,7 +80,8 @@ Better navigation, recommendations, or guided journeys could help users discover
 
 ### 4️. How important is recency of purchase?
 
-Interpretation:
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/30a5f9d9-1dd6-4988-a1bb-5c25fff0f384" />
+
 Churned customers typically have more days since their last purchase, while loyal customers purchase more recently.
 
 This is one of the strongest churn signals.
@@ -89,7 +91,8 @@ Customers who haven’t purchased in a long time may need reactivation campaigns
 
 ### 5️. Does total purchase history matter?
 
-Interpretation:
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3d792f4b-2cd9-4e43-9a5a-8c93488e9c69" />
+
 Churned users generally have fewer total purchases over their lifetime, while loyal users show repeat buying behavior.
 
 Business insight:
@@ -97,7 +100,8 @@ Early repeat purchases are critical. Encouraging a second or third purchase earl
 
 ### 6️. Does higher spending guarantee loyalty?
 
-Interpretation:
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/fcff49dd-31d0-45fe-af53-8adb9a50440a" />
+
 Average Order Value alone does not guarantee loyalty. Some churned customers may place high-value orders but still disengage afterward.
 
 Key insight:
@@ -142,6 +146,9 @@ The Value Persona represents customers based on the economic value they bring to
 
 The Value Persona complements the overall buyer persona by showing the financial impact of each customer segment. It works alongside behavior and engagement personas to give a complete picture of who the customers are, how they act, how they engage, and how valuable they are to the business.
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ee000e37-8a86-4032-a823-5c3491d70dc8" />
+
+
 ## Churned Customers:
 
 Average Lifetime Value: $1,425.42 — Customers around this lifetime value may still churn. The company should actively retain them, even if they appear valuable.
@@ -157,6 +164,12 @@ Average Lifetime Value: $1,446.81 — Slightly higher, showing these users gener
 Average Order Value: $118.38 — Lower per order than churned users, but consistent purchasing makes them valuable over time.
 
 Total Purchases: 13.83 — Higher frequency reinforces loyalty and steady revenue contribution.
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/96ce9ac5-1da9-4bea-845c-9b0a1a705eaf" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3d985abb-cb10-4186-ac86-4471b15f4463" />
+
+
 
 ## Actionable Insight:
 
