@@ -137,3 +137,48 @@ Shows consistent engagement over time
 
 
 # Value Persona – What This Analysis Is About
+
+The Value Persona represents customers based on the economic value they bring to the business, helping to identify which users generate more revenue. It focuses on metrics like Lifetime Value, Average Order Value, and Total Purchases.
+
+The Value Persona complements the overall buyer persona by showing the financial impact of each customer segment. It works alongside behavior and engagement personas to give a complete picture of who the customers are, how they act, how they engage, and how valuable they are to the business.
+
+## Churned Customers:
+
+Average Lifetime Value: $1,425.42 — Customers around this lifetime value may still churn. The company should actively retain them, even if they appear valuable.
+
+Average Order Value: $134.76 — Indicates these users make higher-value purchases per order, but since their total purchases are fewer, they could still leave. Retention strategies should focus here as well.
+
+Total Purchases: 11.35 — Lower purchase frequency signals a risk of churn despite high order value. Focus should be on encouraging more frequent purchases.
+
+## Loyal Customers:
+
+Average Lifetime Value: $1,446.81 — Slightly higher, showing these users generate steady revenue over time. Users surpassing the churned average are more likely to remain loyal.
+
+Average Order Value: $118.38 — Lower per order than churned users, but consistent purchasing makes them valuable over time.
+
+Total Purchases: 13.83 — Higher frequency reinforces loyalty and steady revenue contribution.
+
+## Actionable Insight:
+
+Users with lifetime value near $1,425.42, order value ~$134, and total purchases ~11 are at risk of churning.
+
+Users above these thresholds are likely loyal.
+
+The company should design retention strategies targeting those just below the loyalty thresholds, and continue nurturing consistent, frequent buyers.
+
+Churned users often make higher-value orders but purchase less frequently, putting them at risk despite contributing decent revenue. Loyal users may spend less per order but buy consistently, generating steady lifetime value. Focusing retention strategies on users near the churn thresholds can help convert at-risk customers into long-term loyal ones.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
