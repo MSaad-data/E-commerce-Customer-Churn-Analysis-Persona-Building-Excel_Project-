@@ -133,3 +133,7 @@ Shows consistent engagement over time
 
 
 **This customer treats the platform as a regular destination. Frequent visits, deeper exploration, and repeated purchases indicate strong engagement and long-term loyalty.**
+
+
+
+# Value Persona – What This Analysis Is About
