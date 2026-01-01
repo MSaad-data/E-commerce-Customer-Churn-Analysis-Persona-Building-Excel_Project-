@@ -211,11 +211,76 @@ Average Social Media Engagement Score: 31.87 — Stronger brand interaction corr
 
 Average Mobile App Usage: 20.71% — Frequent app activity reflects higher involvement and stickiness.
 
-## Actionable Insight:
+## Insight:
 
 Churned users engage less with emails, social media, and the mobile app, and contact support more often, indicating weaker connection with the platform. Loyal users interact consistently across all channels, showing higher involvement. Boosting engagement for at-risk users through personalized communication and app incentives can help reduce churn.
 
 
+## Categorical Persona
+
+The categorical persona looks at who the customers are, not how they behave.
+It uses basic attributes like gender, signup timing, and country to see if churn is linked to customer background.
+
+### How Categorical Persona Fits Into the Overall Buyer Persona
+
+While behavior, engagement, and value explain why customers churn, categorical data shows where and who churn happens more often.
+Together, they help shape a complete buyer persona that combines actions, value, and demographics.
+
+### Gender-Based 
+
+**Female customers:**
+7,277 churned vs 17,839 loyal
+
+**Male customers:**
+6,880 churned vs 17,067 loyal
+
+Churn is slightly higher among female customers, but the difference between genders is small. This suggests gender alone is not a strong churn driver, but female customers may still benefit from more personalized engagement and retention campaigns.
+
+### Suggestion:
+Instead of gender-specific discounts, focus on behavior and engagement signals within each gender group to reduce churn more effectively.
+
+### Signup Quarter 
+
+Churned customers are evenly spread across all signup quarters:
+
+Q1: 3,651
+
+Q2: 3,715
+
+Q3: 3,570
+
+Q4: 3,514
+
+No single signup quarter stands out as a high-risk period. Customers churn at similar levels regardless of when they joined.
+
+Suggestion:
+Churn prevention should focus on post-signup experience (early engagement, onboarding, and usage), rather than the signup timing itself.
+
+### Country-Based Interpretation (Using Churn %)
+
+Highest churn rates:
+
+Australia: 29.89%
+
+USA: 29.08%
+
+India: 29.01%
+
+Lowest churn rates:
+
+France: 27.29%
+
+Japan: 27.83%
+
+Churn rates are very similar across countries (27–30%), meaning geography is not the main cause of churn. High churn counts in countries like the USA are driven by larger customer bases, not worse performance.
+
+Suggestion:
+Retention strategies should be global and behavior-focused, rather than country-specific. However, best practices from lower-churn countries like France and Japan can be studied and applied elsewhere.
+
+### Categorical Persona Summary
+
+The categorical analysis shows that churn is not strongly driven by gender, signup quarter, or country alone.
+This confirms that churn is mainly influenced by how customers behave, engage, and deliver value, making categorical factors a supportive context rather than primary drivers.
 
 
 
