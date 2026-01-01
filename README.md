@@ -226,6 +226,9 @@ It uses basic attributes like gender, signup timing, and country to see if churn
 While behavior, engagement, and value explain why customers churn, categorical data shows where and who churn happens more often.
 Together, they help shape a complete buyer persona that combines actions, value, and demographics.
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a1d62de4-0ac7-4195-a568-c65e70e5f707" />
+
+
 ### Gender-Based 
 
 **Female customers:**
@@ -257,6 +260,10 @@ Suggestion:
 Churn prevention should focus on post-signup experience (early engagement, onboarding, and usage), rather than the signup timing itself.
 
 ### Country-Based Interpretation (Using Churn %)
+
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/99234b54-06d8-4521-bd47-4e32d0705ff4" />
+
 
 Highest churn rates:
 
