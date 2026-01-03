@@ -6,6 +6,9 @@ This Excel project analyzes an e-commerce customer churn dataset to understand w
  <a href="https://github.com/MSaad-data/E-commerce-Customer-Churn-Analysis-Persona-Building-Excel_Project-/blob/main/ecommerce_customer_churn_dataset_buyer_persona.xlsx">Dataset view</a>
 
 
+## Report Ecommerce Customer Churn Buyer Persona
+ <a href="https://github.com/MSaad-data/E-commerce-Customer-Churn-Analysis-Persona-Building-Excel_Project-/blob/main/Report%20Ecommerce%20Customer%20Churn%20Buyer%20Persona.pdf">Dataset view</a>
+
 # Behavior Persona – What This Analysis Is About
 
 The **Behavior Persona** focuses on how customers actually use the platform, not who they are.
