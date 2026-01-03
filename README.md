@@ -2,7 +2,8 @@
 This Excel project analyzes an e-commerce customer churn dataset to understand why customers leave or stay. Using data cleaning, pivot tables, and visualizations, the project builds churned and loyal customer personas across behavior, engagement, value, and categorical dimensions to derive practical, business-focused insights.
 
 
-
+## Data_set Used
+ <a href="https://github.com/MSaad-data/E-commerce-Customer-Churn-Analysis-Persona-Building-Excel_Project-/blob/main/ecommerce_customer_churn_dataset_buyer_persona.xlsx">Dataset view</a>
 
 
 # Behavior Persona – What This Analysis Is About
